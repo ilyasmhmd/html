@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-shadow: 5px 5px 5px black;
+    letter-spacing: 15px;
+    word word-spacing: 50px;
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+p{
+    text-indent: 50px;
+    color: blue;
+   line-height: 10px;
+   text-decoration: underline;
+}
+
